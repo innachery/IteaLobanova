@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4372d7cd-dd4a-417a-a252-efc06201caf9" name="Changes" comment="Homework #2 with changes">
+    <list default="true" id="4372d7cd-dd4a-417a-a252-efc06201caf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +20,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="HW2" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,9 +38,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lesson2">
     <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2" />
+      <module name="IteaLobanova" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3" />
+      <module name="IteaLobanova" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Month" />
+      <module name="IteaLobanova" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns" />
       <module name="IteaLobanova" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,6 +70,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lesson2" />
+        <item itemvalue="Application.Lesson3" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="Application.Month" />
       </list>
     </recent_temporary>
   </component>
@@ -64,28 +85,6 @@
       <option name="presentableId" value="Default" />
       <updated>1674377328729</updated>
     </task>
-    <task id="LOCAL-00001" summary="Homework #2">
-      <created>1674853476458</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674853476458</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Homework #2">
-      <created>1674897636549</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674897636549</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Homework #2 with changes">
-      <created>1674981087087</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674981087087</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,10 +97,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework #2" />
-    <MESSAGE value="Homework #2 with changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework #2 with changes" />
   </component>
 </project>
