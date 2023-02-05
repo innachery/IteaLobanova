@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
-public class Lesson3 {public static void main(String[] args) {
-
-}
-=======
 public class Lesson3 {
     public static void main(String[] args) {
         longestWord("hello", "hi", "mama");
@@ -22,5 +18,5 @@ public class Lesson3 {
             System.out.println("Деякі слова мають однакову довжину");
         }
     }
->>>>>>> 12798cdd07e76b24cfd2e8cacd2c4b8a96d5ff7d
 }
+
